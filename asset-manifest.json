@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Manuel-Rojas-Website/static/css/main.073c9b0a.css",
-    "main.js": "/Manuel-Rojas-Website/static/js/main.00504643.js",
+    "main.css": "/Manuel-Rojas-Website/static/css/main.03ac9e7d.css",
+    "main.js": "/Manuel-Rojas-Website/static/js/main.e52d634a.js",
     "static/js/787.834fbd13.chunk.js": "/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js",
-    "static/media/logo.svg": "/Manuel-Rojas-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/RojasManuel.jpeg": "/Manuel-Rojas-Website/static/media/RojasManuel.85e2a9e6b4d24528a404.jpeg",
+    "static/media/table.jpg": "/Manuel-Rojas-Website/static/media/table.5dc39c72c75990f123bb.jpg",
+    "static/media/websiteScreenshot.jpg": "/Manuel-Rojas-Website/static/media/websiteScreenshot.9219caf05057d9826233.jpg",
+    "static/media/pathfindersAdventuresScreenshot.jpg": "/Manuel-Rojas-Website/static/media/pathfindersAdventuresScreenshot.4950998ac343c41d2c7e.jpg",
+    "static/media/htmlLogo2.png": "/Manuel-Rojas-Website/static/media/htmlLogo2.07c33e1657740da9f855.png",
+    "static/media/cssLogo2.png": "/Manuel-Rojas-Website/static/media/cssLogo2.493c81ad31c93ca29e5e.png",
     "index.html": "/Manuel-Rojas-Website/index.html",
-    "main.073c9b0a.css.map": "/Manuel-Rojas-Website/static/css/main.073c9b0a.css.map",
-    "main.00504643.js.map": "/Manuel-Rojas-Website/static/js/main.00504643.js.map",
+    "main.03ac9e7d.css.map": "/Manuel-Rojas-Website/static/css/main.03ac9e7d.css.map",
+    "main.e52d634a.js.map": "/Manuel-Rojas-Website/static/js/main.e52d634a.js.map",
     "787.834fbd13.chunk.js.map": "/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.00504643.js"
+    "static/css/main.03ac9e7d.css",
+    "static/js/main.e52d634a.js"
   ]
 }
