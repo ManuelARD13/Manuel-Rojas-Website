@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/css/main.073c9b0a.css",
-    "main.js": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/js/main.e05e37e3.js",
-    "static/js/787.834fbd13.chunk.js": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js",
-    "static/media/logo.svg": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ManuelARD13.github.io/Manuel-Rojas-Website/index.html",
-    "main.073c9b0a.css.map": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/css/main.073c9b0a.css.map",
-    "main.e05e37e3.js.map": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/js/main.e05e37e3.js.map",
-    "787.834fbd13.chunk.js.map": "/ManuelARD13.github.io/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js.map"
+    "main.css": "/Manuel-Rojas-Website/static/css/main.073c9b0a.css",
+    "main.js": "/Manuel-Rojas-Website/static/js/main.00504643.js",
+    "static/js/787.834fbd13.chunk.js": "/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js",
+    "static/media/logo.svg": "/Manuel-Rojas-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Manuel-Rojas-Website/index.html",
+    "main.073c9b0a.css.map": "/Manuel-Rojas-Website/static/css/main.073c9b0a.css.map",
+    "main.00504643.js.map": "/Manuel-Rojas-Website/static/js/main.00504643.js.map",
+    "787.834fbd13.chunk.js.map": "/Manuel-Rojas-Website/static/js/787.834fbd13.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e05e37e3.js"
+    "static/js/main.00504643.js"
   ]
 }
